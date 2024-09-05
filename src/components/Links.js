@@ -1,6 +1,8 @@
 import React from "react";
+//import user from "../data/user";
 
 function Links({ github, linkedin }) {
+  
   return (
     <div>
       <h3>Links</h3>
